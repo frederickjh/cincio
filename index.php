@@ -16,7 +16,6 @@
         <h2>Configuration in Code</h2>
         <p>Good code is configurable. Good configuration is reusable. Let's make better code and better configuration.</p>
       </div>
-      <p>For now, check out the <a href="https://www.drupal.org/project/cinc">Drupal module</a> or the <a href="/playground">playground</a>.</p>
-      <p>More coming soon. We hope!</p>
+      <p>For now, check out the <a href="https://www.drupal.org/project/cinc">Drupal module</a> or the <a href="/playground">playground</a>.
     </div>
 <?php require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.inc'); ?>
